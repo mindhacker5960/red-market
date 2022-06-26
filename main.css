@@ -1,0 +1,54 @@
+.content{
+    padding: 2vh 2vw;
+    display: flex;
+    background-color: #fff;
+}
+.hr{
+    background-color: black;
+    opacity: 0.1;
+}
+.box{
+    margin: auto auto;
+    text-align: center;
+}
+.box img{
+    height: 15vh;
+}
+.box a{
+    text-decoration: none;
+    color: black;
+}
+.wallpaper{
+    padding: 1vh 10vw;
+}
+.img{
+    width: 80vw;
+    overflow: hidden;
+    display: flex;
+}
+.img img{
+    width: 80vw;
+    border-radius: 6vh;
+}
+.heading{
+    margin: 10vh auto;
+}
+.heading h1{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 10vh;
+}
+.element{
+    padding: 2vh 2vw;
+    display: flex;
+}
+.item img{
+    height: 15vh;
+}
+.item{
+    width: 10vw;
+    margin: auto 2vw;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+

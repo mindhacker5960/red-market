@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #fff;
+}
+.nav{
+    height: 12vh;
+    display: flex;
+    background-color: orangered;
+    border-bottom: 2px solid #fff;
+}
+.leftnav{
+    width: 50vw;
+}
+.logo{
+    margin: 1vh 2vw;
+    height: 10vh;
+    border-radius: 50%;
+}
+.rightnav{
+    padding-top: 4vh;
+    text-align: center;
+    width: 50vw;
+}
+.rightnav li{
+    display: inline;
+}
+.rightnav a{
+    color: #fff;
+    font-size: 4vh;
+    margin: 2vw;
+    text-decoration: none;
+    font-family: 'Kanit', sans-serif;
+}
